@@ -1,4 +1,4 @@
-#LED Candles with accuflicker
+# LED Candles with accuflicker
 Uses a NodeMCU with control via MQTT to drive 4 LED circuits chock full of realistic flame flickering action
   
 ### Resources:
